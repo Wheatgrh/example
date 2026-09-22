@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    gap: 30px;
+}
+
+.user {
+    border: 1px solid black;
+    background-color: chartreuse;
+    border-radius: 15px;
+    padding: 10px;
+}
